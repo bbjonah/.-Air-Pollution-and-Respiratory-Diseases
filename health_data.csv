@@ -1,0 +1,601 @@
+date,location,respiratory_cases
+2023-01-01,Lagos,129
+2023-01-02,Lagos,113
+2023-01-03,Lagos,100
+2023-01-04,Lagos,94
+2023-01-05,Lagos,82
+2023-01-06,Lagos,110
+2023-01-07,Lagos,104
+2023-01-08,Lagos,117
+2023-01-09,Lagos,91
+2023-01-10,Lagos,101
+2023-01-11,Lagos,114
+2023-01-12,Lagos,96
+2023-01-13,Lagos,99
+2023-01-14,Lagos,113
+2023-01-15,Lagos,106
+2023-01-16,Lagos,88
+2023-01-17,Lagos,134
+2023-01-18,Lagos,124
+2023-01-19,Lagos,121
+2023-01-20,Lagos,87
+2023-01-21,Lagos,103
+2023-01-22,Lagos,99
+2023-01-23,Lagos,113
+2023-01-24,Lagos,82
+2023-01-25,Lagos,110
+2023-01-26,Lagos,80
+2023-01-27,Lagos,111
+2023-01-28,Lagos,108
+2023-01-29,Lagos,123
+2023-01-30,Lagos,110
+2023-01-31,Lagos,100
+2023-02-01,Lagos,119
+2023-02-02,Lagos,105
+2023-02-03,Lagos,112
+2023-02-04,Lagos,85
+2023-02-05,Lagos,117
+2023-02-06,Lagos,100
+2023-02-07,Lagos,119
+2023-02-08,Lagos,94
+2023-02-09,Lagos,138
+2023-02-10,Lagos,93
+2023-02-11,Lagos,141
+2023-02-12,Lagos,92
+2023-02-13,Lagos,117
+2023-02-14,Lagos,142
+2023-02-15,Lagos,115
+2023-02-16,Lagos,108
+2023-02-17,Lagos,98
+2023-02-18,Lagos,108
+2023-02-19,Lagos,86
+2023-02-20,Lagos,126
+2023-02-21,Lagos,92
+2023-02-22,Lagos,145
+2023-02-23,Lagos,130
+2023-02-24,Lagos,97
+2023-02-25,Lagos,110
+2023-02-26,Lagos,97
+2023-02-27,Lagos,104
+2023-02-28,Lagos,113
+2023-03-01,Lagos,92
+2023-03-02,Lagos,107
+2023-03-03,Lagos,84
+2023-03-04,Lagos,139
+2023-03-05,Lagos,132
+2023-03-06,Lagos,127
+2023-03-07,Lagos,83
+2023-03-08,Lagos,85
+2023-03-09,Lagos,90
+2023-03-10,Lagos,125
+2023-03-11,Lagos,103
+2023-03-12,Lagos,101
+2023-03-13,Lagos,129
+2023-03-14,Lagos,103
+2023-03-15,Lagos,98
+2023-03-16,Lagos,127
+2023-03-17,Lagos,102
+2023-03-18,Lagos,103
+2023-03-19,Lagos,124
+2023-03-20,Lagos,123
+2023-03-21,Lagos,113
+2023-03-22,Lagos,132
+2023-03-23,Lagos,98
+2023-03-24,Lagos,109
+2023-03-25,Lagos,104
+2023-03-26,Lagos,91
+2023-03-27,Lagos,94
+2023-03-28,Lagos,88
+2023-03-29,Lagos,113
+2023-03-30,Lagos,107
+2023-03-31,Lagos,98
+2023-04-01,Lagos,125
+2023-04-02,Lagos,114
+2023-04-03,Lagos,110
+2023-04-04,Lagos,124
+2023-04-05,Lagos,113
+2023-04-06,Lagos,87
+2023-04-07,Lagos,118
+2023-04-08,Lagos,120
+2023-04-09,Lagos,97
+2023-04-10,Lagos,106
+2023-04-11,Lagos,86
+2023-04-12,Lagos,103
+2023-04-13,Lagos,101
+2023-04-14,Lagos,88
+2023-04-15,Lagos,128
+2023-04-16,Lagos,150
+2023-04-17,Lagos,128
+2023-04-18,Lagos,90
+2023-04-19,Lagos,110
+2023-04-20,Lagos,118
+2023-04-21,Lagos,109
+2023-04-22,Lagos,86
+2023-04-23,Lagos,106
+2023-04-24,Lagos,90
+2023-04-25,Lagos,89
+2023-04-26,Lagos,133
+2023-04-27,Lagos,113
+2023-04-28,Lagos,75
+2023-04-29,Lagos,95
+2023-04-30,Lagos,130
+2023-05-01,Lagos,102
+2023-05-02,Lagos,80
+2023-05-03,Lagos,147
+2023-05-04,Lagos,111
+2023-05-05,Lagos,79
+2023-05-06,Lagos,133
+2023-05-07,Lagos,88
+2023-05-08,Lagos,104
+2023-05-09,Lagos,107
+2023-05-10,Lagos,116
+2023-05-11,Lagos,95
+2023-05-12,Lagos,88
+2023-05-13,Lagos,90
+2023-05-14,Lagos,101
+2023-05-15,Lagos,90
+2023-05-16,Lagos,127
+2023-05-17,Lagos,72
+2023-05-18,Lagos,107
+2023-05-19,Lagos,119
+2023-05-20,Lagos,96
+2023-05-21,Lagos,119
+2023-05-22,Lagos,108
+2023-05-23,Lagos,100
+2023-05-24,Lagos,89
+2023-05-25,Lagos,124
+2023-05-26,Lagos,133
+2023-05-27,Lagos,102
+2023-05-28,Lagos,108
+2023-05-29,Lagos,111
+2023-05-30,Lagos,103
+2023-05-31,Lagos,126
+2023-06-01,Lagos,109
+2023-06-02,Lagos,94
+2023-06-03,Lagos,109
+2023-06-04,Lagos,115
+2023-06-05,Lagos,116
+2023-06-06,Lagos,122
+2023-06-07,Lagos,127
+2023-06-08,Lagos,86
+2023-06-09,Lagos,104
+2023-06-10,Lagos,97
+2023-06-11,Lagos,100
+2023-06-12,Lagos,121
+2023-06-13,Lagos,102
+2023-06-14,Lagos,106
+2023-06-15,Lagos,92
+2023-06-16,Lagos,114
+2023-06-17,Lagos,62
+2023-06-18,Lagos,92
+2023-06-19,Lagos,116
+2023-06-20,Lagos,115
+2023-06-21,Lagos,92
+2023-06-22,Lagos,130
+2023-06-23,Lagos,95
+2023-06-24,Lagos,104
+2023-06-25,Lagos,92
+2023-06-26,Lagos,108
+2023-06-27,Lagos,90
+2023-06-28,Lagos,114
+2023-06-29,Lagos,109
+2023-06-30,Lagos,109
+2023-07-01,Lagos,112
+2023-07-02,Lagos,88
+2023-07-03,Lagos,110
+2023-07-04,Lagos,127
+2023-07-05,Lagos,79
+2023-07-06,Lagos,103
+2023-07-07,Lagos,79
+2023-07-08,Lagos,127
+2023-07-09,Lagos,121
+2023-07-10,Lagos,103
+2023-07-11,Lagos,135
+2023-07-12,Lagos,104
+2023-07-13,Lagos,105
+2023-07-14,Lagos,104
+2023-07-15,Lagos,109
+2023-07-16,Lagos,125
+2023-07-17,Lagos,101
+2023-07-18,Lagos,114
+2023-07-19,Lagos,111
+2023-01-01,Abuja,112
+2023-01-02,Abuja,96
+2023-01-03,Abuja,114
+2023-01-04,Abuja,112
+2023-01-05,Abuja,126
+2023-01-06,Abuja,107
+2023-01-07,Abuja,106
+2023-01-08,Abuja,91
+2023-01-09,Abuja,94
+2023-01-10,Abuja,120
+2023-01-11,Abuja,113
+2023-01-12,Abuja,137
+2023-01-13,Abuja,91
+2023-01-14,Abuja,101
+2023-01-15,Abuja,106
+2023-01-16,Abuja,122
+2023-01-17,Abuja,102
+2023-01-18,Abuja,117
+2023-01-19,Abuja,105
+2023-01-20,Abuja,114
+2023-01-21,Abuja,145
+2023-01-22,Abuja,122
+2023-01-23,Abuja,126
+2023-01-24,Abuja,134
+2023-01-25,Abuja,99
+2023-01-26,Abuja,123
+2023-01-27,Abuja,116
+2023-01-28,Abuja,128
+2023-01-29,Abuja,121
+2023-01-30,Abuja,117
+2023-01-31,Abuja,108
+2023-02-01,Abuja,117
+2023-02-02,Abuja,144
+2023-02-03,Abuja,75
+2023-02-04,Abuja,93
+2023-02-05,Abuja,96
+2023-02-06,Abuja,116
+2023-02-07,Abuja,111
+2023-02-08,Abuja,111
+2023-02-09,Abuja,119
+2023-02-10,Abuja,129
+2023-02-11,Abuja,131
+2023-02-12,Abuja,93
+2023-02-13,Abuja,95
+2023-02-14,Abuja,96
+2023-02-15,Abuja,118
+2023-02-16,Abuja,112
+2023-02-17,Abuja,85
+2023-02-18,Abuja,97
+2023-02-19,Abuja,137
+2023-02-20,Abuja,122
+2023-02-21,Abuja,125
+2023-02-22,Abuja,121
+2023-02-23,Abuja,132
+2023-02-24,Abuja,101
+2023-02-25,Abuja,132
+2023-02-26,Abuja,132
+2023-02-27,Abuja,93
+2023-02-28,Abuja,131
+2023-03-01,Abuja,96
+2023-03-02,Abuja,126
+2023-03-03,Abuja,95
+2023-03-04,Abuja,136
+2023-03-05,Abuja,108
+2023-03-06,Abuja,110
+2023-03-07,Abuja,86
+2023-03-08,Abuja,108
+2023-03-09,Abuja,108
+2023-03-10,Abuja,98
+2023-03-11,Abuja,97
+2023-03-12,Abuja,122
+2023-03-13,Abuja,118
+2023-03-14,Abuja,103
+2023-03-15,Abuja,116
+2023-03-16,Abuja,103
+2023-03-17,Abuja,105
+2023-03-18,Abuja,106
+2023-03-19,Abuja,112
+2023-03-20,Abuja,124
+2023-03-21,Abuja,147
+2023-03-22,Abuja,116
+2023-03-23,Abuja,114
+2023-03-24,Abuja,113
+2023-03-25,Abuja,139
+2023-03-26,Abuja,123
+2023-03-27,Abuja,112
+2023-03-28,Abuja,90
+2023-03-29,Abuja,100
+2023-03-30,Abuja,105
+2023-03-31,Abuja,108
+2023-04-01,Abuja,71
+2023-04-02,Abuja,139
+2023-04-03,Abuja,122
+2023-04-04,Abuja,105
+2023-04-05,Abuja,75
+2023-04-06,Abuja,102
+2023-04-07,Abuja,97
+2023-04-08,Abuja,96
+2023-04-09,Abuja,105
+2023-04-10,Abuja,124
+2023-04-11,Abuja,112
+2023-04-12,Abuja,101
+2023-04-13,Abuja,91
+2023-04-14,Abuja,116
+2023-04-15,Abuja,122
+2023-04-16,Abuja,100
+2023-04-17,Abuja,103
+2023-04-18,Abuja,116
+2023-04-19,Abuja,135
+2023-04-20,Abuja,142
+2023-04-21,Abuja,91
+2023-04-22,Abuja,86
+2023-04-23,Abuja,111
+2023-04-24,Abuja,74
+2023-04-25,Abuja,128
+2023-04-26,Abuja,106
+2023-04-27,Abuja,93
+2023-04-28,Abuja,112
+2023-04-29,Abuja,95
+2023-04-30,Abuja,134
+2023-05-01,Abuja,119
+2023-05-02,Abuja,95
+2023-05-03,Abuja,109
+2023-05-04,Abuja,111
+2023-05-05,Abuja,121
+2023-05-06,Abuja,97
+2023-05-07,Abuja,109
+2023-05-08,Abuja,131
+2023-05-09,Abuja,114
+2023-05-10,Abuja,91
+2023-05-11,Abuja,116
+2023-05-12,Abuja,96
+2023-05-13,Abuja,110
+2023-05-14,Abuja,109
+2023-05-15,Abuja,100
+2023-05-16,Abuja,122
+2023-05-17,Abuja,119
+2023-05-18,Abuja,71
+2023-05-19,Abuja,91
+2023-05-20,Abuja,103
+2023-05-21,Abuja,101
+2023-05-22,Abuja,112
+2023-05-23,Abuja,115
+2023-05-24,Abuja,82
+2023-05-25,Abuja,122
+2023-05-26,Abuja,109
+2023-05-27,Abuja,135
+2023-05-28,Abuja,98
+2023-05-29,Abuja,134
+2023-05-30,Abuja,81
+2023-05-31,Abuja,106
+2023-06-01,Abuja,129
+2023-06-02,Abuja,109
+2023-06-03,Abuja,132
+2023-06-04,Abuja,116
+2023-06-05,Abuja,111
+2023-06-06,Abuja,76
+2023-06-07,Abuja,112
+2023-06-08,Abuja,118
+2023-06-09,Abuja,120
+2023-06-10,Abuja,109
+2023-06-11,Abuja,114
+2023-06-12,Abuja,140
+2023-06-13,Abuja,106
+2023-06-14,Abuja,126
+2023-06-15,Abuja,91
+2023-06-16,Abuja,109
+2023-06-17,Abuja,90
+2023-06-18,Abuja,112
+2023-06-19,Abuja,103
+2023-06-20,Abuja,112
+2023-06-21,Abuja,96
+2023-06-22,Abuja,121
+2023-06-23,Abuja,123
+2023-06-24,Abuja,145
+2023-06-25,Abuja,113
+2023-06-26,Abuja,113
+2023-06-27,Abuja,113
+2023-06-28,Abuja,88
+2023-06-29,Abuja,146
+2023-06-30,Abuja,115
+2023-07-01,Abuja,126
+2023-07-02,Abuja,78
+2023-07-03,Abuja,94
+2023-07-04,Abuja,81
+2023-07-05,Abuja,113
+2023-07-06,Abuja,105
+2023-07-07,Abuja,121
+2023-07-08,Abuja,96
+2023-07-09,Abuja,113
+2023-07-10,Abuja,110
+2023-07-11,Abuja,120
+2023-07-12,Abuja,74
+2023-07-13,Abuja,104
+2023-07-14,Abuja,85
+2023-07-15,Abuja,115
+2023-07-16,Abuja,113
+2023-07-17,Abuja,68
+2023-07-18,Abuja,105
+2023-07-19,Abuja,118
+2023-01-01,Port Harcourt,104
+2023-01-02,Port Harcourt,113
+2023-01-03,Port Harcourt,94
+2023-01-04,Port Harcourt,149
+2023-01-05,Port Harcourt,118
+2023-01-06,Port Harcourt,96
+2023-01-07,Port Harcourt,148
+2023-01-08,Port Harcourt,105
+2023-01-09,Port Harcourt,101
+2023-01-10,Port Harcourt,89
+2023-01-11,Port Harcourt,119
+2023-01-12,Port Harcourt,107
+2023-01-13,Port Harcourt,138
+2023-01-14,Port Harcourt,105
+2023-01-15,Port Harcourt,127
+2023-01-16,Port Harcourt,115
+2023-01-17,Port Harcourt,117
+2023-01-18,Port Harcourt,116
+2023-01-19,Port Harcourt,96
+2023-01-20,Port Harcourt,126
+2023-01-21,Port Harcourt,115
+2023-01-22,Port Harcourt,101
+2023-01-23,Port Harcourt,105
+2023-01-24,Port Harcourt,131
+2023-01-25,Port Harcourt,94
+2023-01-26,Port Harcourt,126
+2023-01-27,Port Harcourt,131
+2023-01-28,Port Harcourt,101
+2023-01-29,Port Harcourt,84
+2023-01-30,Port Harcourt,109
+2023-01-31,Port Harcourt,119
+2023-02-01,Port Harcourt,109
+2023-02-02,Port Harcourt,117
+2023-02-03,Port Harcourt,90
+2023-02-04,Port Harcourt,107
+2023-02-05,Port Harcourt,117
+2023-02-06,Port Harcourt,103
+2023-02-07,Port Harcourt,119
+2023-02-08,Port Harcourt,105
+2023-02-09,Port Harcourt,125
+2023-02-10,Port Harcourt,115
+2023-02-11,Port Harcourt,101
+2023-02-12,Port Harcourt,129
+2023-02-13,Port Harcourt,87
+2023-02-14,Port Harcourt,93
+2023-02-15,Port Harcourt,96
+2023-02-16,Port Harcourt,93
+2023-02-17,Port Harcourt,117
+2023-02-18,Port Harcourt,102
+2023-02-19,Port Harcourt,101
+2023-02-20,Port Harcourt,114
+2023-02-21,Port Harcourt,83
+2023-02-22,Port Harcourt,94
+2023-02-23,Port Harcourt,122
+2023-02-24,Port Harcourt,68
+2023-02-25,Port Harcourt,100
+2023-02-26,Port Harcourt,125
+2023-02-27,Port Harcourt,109
+2023-02-28,Port Harcourt,123
+2023-03-01,Port Harcourt,92
+2023-03-02,Port Harcourt,97
+2023-03-03,Port Harcourt,97
+2023-03-04,Port Harcourt,138
+2023-03-05,Port Harcourt,92
+2023-03-06,Port Harcourt,126
+2023-03-07,Port Harcourt,93
+2023-03-08,Port Harcourt,127
+2023-03-09,Port Harcourt,89
+2023-03-10,Port Harcourt,123
+2023-03-11,Port Harcourt,90
+2023-03-12,Port Harcourt,120
+2023-03-13,Port Harcourt,112
+2023-03-14,Port Harcourt,102
+2023-03-15,Port Harcourt,98
+2023-03-16,Port Harcourt,110
+2023-03-17,Port Harcourt,119
+2023-03-18,Port Harcourt,96
+2023-03-19,Port Harcourt,118
+2023-03-20,Port Harcourt,111
+2023-03-21,Port Harcourt,90
+2023-03-22,Port Harcourt,89
+2023-03-23,Port Harcourt,123
+2023-03-24,Port Harcourt,134
+2023-03-25,Port Harcourt,89
+2023-03-26,Port Harcourt,115
+2023-03-27,Port Harcourt,106
+2023-03-28,Port Harcourt,113
+2023-03-29,Port Harcourt,132
+2023-03-30,Port Harcourt,107
+2023-03-31,Port Harcourt,101
+2023-04-01,Port Harcourt,115
+2023-04-02,Port Harcourt,113
+2023-04-03,Port Harcourt,82
+2023-04-04,Port Harcourt,112
+2023-04-05,Port Harcourt,129
+2023-04-06,Port Harcourt,97
+2023-04-07,Port Harcourt,127
+2023-04-08,Port Harcourt,110
+2023-04-09,Port Harcourt,136
+2023-04-10,Port Harcourt,95
+2023-04-11,Port Harcourt,95
+2023-04-12,Port Harcourt,78
+2023-04-13,Port Harcourt,111
+2023-04-14,Port Harcourt,92
+2023-04-15,Port Harcourt,82
+2023-04-16,Port Harcourt,98
+2023-04-17,Port Harcourt,86
+2023-04-18,Port Harcourt,99
+2023-04-19,Port Harcourt,144
+2023-04-20,Port Harcourt,92
+2023-04-21,Port Harcourt,98
+2023-04-22,Port Harcourt,103
+2023-04-23,Port Harcourt,96
+2023-04-24,Port Harcourt,89
+2023-04-25,Port Harcourt,108
+2023-04-26,Port Harcourt,116
+2023-04-27,Port Harcourt,104
+2023-04-28,Port Harcourt,142
+2023-04-29,Port Harcourt,106
+2023-04-30,Port Harcourt,116
+2023-05-01,Port Harcourt,86
+2023-05-02,Port Harcourt,93
+2023-05-03,Port Harcourt,113
+2023-05-04,Port Harcourt,109
+2023-05-05,Port Harcourt,117
+2023-05-06,Port Harcourt,118
+2023-05-07,Port Harcourt,107
+2023-05-08,Port Harcourt,104
+2023-05-09,Port Harcourt,99
+2023-05-10,Port Harcourt,96
+2023-05-11,Port Harcourt,138
+2023-05-12,Port Harcourt,121
+2023-05-13,Port Harcourt,120
+2023-05-14,Port Harcourt,112
+2023-05-15,Port Harcourt,101
+2023-05-16,Port Harcourt,112
+2023-05-17,Port Harcourt,103
+2023-05-18,Port Harcourt,115
+2023-05-19,Port Harcourt,102
+2023-05-20,Port Harcourt,108
+2023-05-21,Port Harcourt,107
+2023-05-22,Port Harcourt,108
+2023-05-23,Port Harcourt,107
+2023-05-24,Port Harcourt,125
+2023-05-25,Port Harcourt,91
+2023-05-26,Port Harcourt,117
+2023-05-27,Port Harcourt,85
+2023-05-28,Port Harcourt,108
+2023-05-29,Port Harcourt,119
+2023-05-30,Port Harcourt,117
+2023-05-31,Port Harcourt,116
+2023-06-01,Port Harcourt,103
+2023-06-02,Port Harcourt,109
+2023-06-03,Port Harcourt,118
+2023-06-04,Port Harcourt,101
+2023-06-05,Port Harcourt,99
+2023-06-06,Port Harcourt,102
+2023-06-07,Port Harcourt,97
+2023-06-08,Port Harcourt,95
+2023-06-09,Port Harcourt,109
+2023-06-10,Port Harcourt,98
+2023-06-11,Port Harcourt,113
+2023-06-12,Port Harcourt,125
+2023-06-13,Port Harcourt,93
+2023-06-14,Port Harcourt,116
+2023-06-15,Port Harcourt,105
+2023-06-16,Port Harcourt,123
+2023-06-17,Port Harcourt,96
+2023-06-18,Port Harcourt,88
+2023-06-19,Port Harcourt,115
+2023-06-20,Port Harcourt,75
+2023-06-21,Port Harcourt,102
+2023-06-22,Port Harcourt,119
+2023-06-23,Port Harcourt,109
+2023-06-24,Port Harcourt,105
+2023-06-25,Port Harcourt,117
+2023-06-26,Port Harcourt,146
+2023-06-27,Port Harcourt,136
+2023-06-28,Port Harcourt,118
+2023-06-29,Port Harcourt,103
+2023-06-30,Port Harcourt,134
+2023-07-01,Port Harcourt,106
+2023-07-02,Port Harcourt,119
+2023-07-03,Port Harcourt,94
+2023-07-04,Port Harcourt,107
+2023-07-05,Port Harcourt,113
+2023-07-06,Port Harcourt,78
+2023-07-07,Port Harcourt,121
+2023-07-08,Port Harcourt,113
+2023-07-09,Port Harcourt,106
+2023-07-10,Port Harcourt,98
+2023-07-11,Port Harcourt,90
+2023-07-12,Port Harcourt,95
+2023-07-13,Port Harcourt,127
+2023-07-14,Port Harcourt,99
+2023-07-15,Port Harcourt,91
+2023-07-16,Port Harcourt,95
+2023-07-17,Port Harcourt,112
+2023-07-18,Port Harcourt,72
+2023-07-19,Port Harcourt,92
